@@ -47,12 +47,17 @@ In response to these challenges, here are some of my solutions that surpasses oT
 2: Integrated Multi-Tenancy Support: By enabling multiple experimenters to work within the same software installation without compromising data integrity or visibility, this feature would facilitate collaborative research and make the software more suitable for larger lab environments.
 
 3: Automated Data Analysis Tools: Incorporating built-in tools for common statistical analyses and data visualization directly within the platform could streamline the research process, from experiment design to data analysis.
-![otreeProblem](
-
+![otreeProblem](image/advanceQ1a1.png)
+*Figure 1: Problem with Otree*
+![flowchart1](image/advanceQ1a2.png)
+*Figure 2: Flowchart For Q1*
 ### Question 2
 
 In the strategic game of Othello, players alternate placing discs on a board, aiming to flank and convert their opponent's discs to their own color. This game poses significant challenges for current multi-agent reinforcement learning (MARL) frameworks due to the dynamic nature of the environment and the intricacies involved in customizing agent algorithms. Specifically, in Othello, the state definition encompasses not just the board's layout but also strategic elements like potential moves and control of key positions. Although actions—representing valid moves—are straightforward, their strategic ramifications are nuanced. The design of reward systems is also complex, requiring a delicate balance between immediate piece captures and longer-term strategic advantages. MARL's limitations stem from the difficulty in precisely modeling these factors and dynamically adjusting strategies as the game progresses.
-
+![othello](image/advanceQ2a1.png)
+*Figure 3: othello*
+![flowchart2](image/advanceQ2.png)
+*Figure 4: Flowchart For Q2*
 
 ### Question 3
 1.Summary (Luo et al. 2023)
@@ -80,10 +85,13 @@ In this framework, there will be an adaptive model aggregation scheme to ensure 
 The article suggests several scenarios, which the privacy is of the most important reason. However, in that scenario like auto driving, whether the privacy of information is enough important to let users or client to pay for this mechanism. In other words, the pricing systems seems unclear, how the platform charging and award those model users or providers is unknown. 
 
 Meanwhile, though the FL seems can protect the privacy of users, but it occupies the computing power of the client at the same time. Other methods, like blockchain and Quantum Computation could also provide high security and privacy while not taking much of computing power (Ikeda 2018), will FL be powerful enough to compete with them? 
-
+![flowchart3](image/advanceQ3.png)
+*Figure 5: Flowchart For Q3*
 
 5. Beyond Computer Science and Economics
-
+![gpt1](image/advanceQ3a1.png)
+![gpt2](image/advanceQ3a2.png)
+![gpt3](image/advanceQ3a3.png)
 ## Bibliography
 Ikeda, Kazuki. 2018. “Chapter Seven - Security and Privacy of Blockchain and Quantum Computation.” Edited by Pethuru Raj and Ganesh Chandra Deka. ScienceDirect. Elsevier. January 1, 2018. https://www.sciencedirect.com/science/article/abs/pii/S0065245818300160.
 
