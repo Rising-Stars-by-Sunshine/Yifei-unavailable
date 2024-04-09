@@ -8,5 +8,5 @@ My name is Yifei Wang, and I'm currently a senior student specializing in Politi
 This repository is created to post my thoughts and answer for the Reflection Milestone for CS/ECON 206 Computational Microeconomics instructed by Prof. Luyao Zhang. 
 
 ## Table of Contents
-- [CSEcon](CSECON)
+- [CSEcon](CSEcon)
 - [Advance_CSECON](Advance_CSECON)
