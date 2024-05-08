@@ -1,2 +1,2 @@
 # Poster
-![Research Poster](ECON206_Final_poster.png)
+![Research Poster](ECON206%20Final%20poster.png)
