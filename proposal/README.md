@@ -1,2 +1,2 @@
 # Poster
-![Final Poster](c
+![Final Poster](ECON206 Final poster.pdf)
